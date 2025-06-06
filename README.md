@@ -29,8 +29,8 @@ The tool consists of the following components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/snowflake-cost-management.git
-cd snowflake-cost-management
+git clone https://github.com/chrismack698/manage-snowflake-costs.git
+cd manage-snowflake-costs
 ```
 
 2. Install dependencies:
