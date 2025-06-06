@@ -21,10 +21,6 @@ The tool consists of the following components:
 
 3. **Web Application** (`app.py`): Flask application that provides a user interface for the cost management tool.
 
-4. **Research Document** (`snowflake_cost_management_research.md`): Comprehensive research on Snowflake cost management and AI-powered optimization.
-
-5. **Architecture Design** (`snowflake_cost_management_architecture.md`): High-level architecture design for the Snowflake cost management tool.
-
 ## Installation
 
 1. Clone the repository:
